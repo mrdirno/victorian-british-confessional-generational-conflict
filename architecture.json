@@ -1,0 +1,72 @@
+{
+  "book_id": "victorian-british-confessional-generational-conflict",
+  "title": "The Silence of Falling Birds",
+  "tagline": "A young Victorian woman's journey to Florence becomes a confessional struggle between her family's rigid morals and the riotous, unmooring call of a life she was never meant to want.",
+  "target_words": 75242,
+  "actual_words": 75242,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Confinement vs. Liberation",
+    "The Performance of Propriety",
+    "Artistic Awakening",
+    "The Weight of Inheritance"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Handwriting on the Envelope",
+      "words": 6840
+    },
+    {
+      "ch": 2,
+      "title": "A Riot of Colour, A Chorus of Morals",
+      "words": 6840
+    },
+    {
+      "ch": 3,
+      "title": "The Universe of a Murmur",
+      "words": 6840
+    },
+    {
+      "ch": 4,
+      "title": "A Sigh in the Cypress Trees",
+      "words": 6840
+    },
+    {
+      "ch": 5,
+      "title": "The Drumbeat of Warning",
+      "words": 6840
+    },
+    {
+      "ch": 6,
+      "title": "Ghosts of Settling Dust",
+      "words": 6840
+    },
+    {
+      "ch": 7,
+      "title": "The Clamour of Small Accusations",
+      "words": 6840
+    },
+    {
+      "ch": 8,
+      "title": "The Nullity of the Mere",
+      "words": 6840
+    },
+    {
+      "ch": 9,
+      "title": "Expelled by Convulsive Shudder",
+      "words": 6840
+    },
+    {
+      "ch": 10,
+      "title": "The Silence of Falling Birds",
+      "words": 6840
+    },
+    {
+      "ch": 11,
+      "title": "The Gullet of Groaning Stone",
+      "words": 6840
+    }
+  ]
+}
